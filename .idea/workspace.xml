@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e9588aa-2931-40bc-a66c-781d7cbb8058" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crm_rest_pro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/init_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+              <folding>
+                <element signature="e#63#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/shopping_cart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1007">
+              <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+              <folding>
+                <element signature="e#51#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/payment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1159">
+              <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/settlement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/login/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
+              <folding>
+                <element signature="e#51#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Category</find>
+      <find>all</find>
+      <find>on_delete=None</find>
+      <find>支付</find>
+      <find>conn</find>
+      <find>user_id</find>
+      <find>SHOPPING_CAR</find>
+      <find>global_coupon</find>
+      <find>file</find>
+      <find>Requet</find>
+      <find>写死</find>
+      <find>先写死</find>
+      <find>un</find>
+      <find>'http://127.0.0.1:8000/shopping_cart/'</find>
+      <find>*</find>
+      <find>ValueError</find>
+      <find>GLOBAL_COUPON</find>
+      <find>SETTLEMENT</find>
+      <find>1031</find>
+      <find>xxx</find>
+      <find>SH</find>
+      <find>self.user_id</find>
+      <find>uniq</find>
+      <find>course</find>
+      <find>print</find>
+      <find>#</find>
+      <find>SE</find>
+      <find>rest</find>
+      <find>object</find>
+      <find>del</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>firstmenu</replace>
+      <replace>on_delete=models.CASCADE</replace>
+      <replace>结算</replace>
+      <replace>CONN</replace>
+      <replace>self.url</replace>
+      <replace>user_id</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/crm_rest_pro/rbac/views/aside_menu.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/utils/text.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/course_detail.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/section.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/middlewares/mid.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/utils/base_permission.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/text_shopping_cart.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/test_shopping_cart.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/get_token.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/token.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/urls.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/test_api/test_shopping.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/crm_rest_pro/settings.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/crm_rest_pro/pytest.ini.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/crm_rest_pro/pytest.ini" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/login/tests.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/rbac/tests.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/tests.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/conftest.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/crm_rest_pro/conftest.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/order.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/del_order.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/错误编号" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/payment.py" />
+        <option value="$PROJECT_DIR$/requirements" />
+        <option value="$PROJECT_DIR$/read_me.md" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/teacher/views/student_list.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/teacher/views/teacher_answer.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/teacher/views/student_record.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/category.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/course.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/course_menu.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/homework.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/rbac/views/permission.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/manager/views/article.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/manager/views/dis_stu.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/manager/views/order.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/manager/views/teacher_record.py" />
+        <option value="F:/GitHub/luffy_pro/READ_ME.md" />
+        <option value="$PROJECT_DIR$/READ_ME.md" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/manager/views/report_forms.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/test_settlement.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/test_shopping.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/utils/base_auth.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/test_api/test_payment.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/shopping_cart.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/teacher/views/teacher_correction.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/classroom.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/student_question.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/login/views.py" />
+        <option value="$PROJECT_DIR$/crm_rest_pro/student/views/settlement.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="705" />
+    <option name="width" value="642" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="luffy_rest_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_rest_pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luffy_rest_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luffy_rest_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="luffy_rest_pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\test_api" />
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\media\course" />
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\student\views" />
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\manager\views" />
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\student" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro" />
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\student" />
+      <recent name="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\teacher" />
+      <recent name="C:\Users\新增模式\PycharmProjects\sales_management_project\sales_management_project\media\avatars" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="crm_rest_pro.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\新增模式\PycharmProjects\crm_rest_pro\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="del_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="crm_rest_pro.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\新增模式\PycharmProjects\crm_rest_pro\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_rest_pro/test_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\新增模式\PycharmProjects\crm_rest_pro\crm_rest_pro\test_api\init_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="crm_rest_pro.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\新增模式\PycharmProjects\crm_rest_pro\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_rest_pro/test_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crm_rest_pro/test_api/init_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\新增模式\PycharmProjects\luffy_rest_pro\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_payment.TestPayment.test_pm_post_5" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_payment.TestPayment.test_pm_post_5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_settlement.TestSettlement" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_settlement.TestSettlement&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_payment.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="luffy_rest_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/test_payment.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.del_order" />
+      <item itemvalue="Python.init_data" />
+      <item itemvalue="Python tests.pytest for test_payment.TestPayment.test_pm_post_5" />
+      <item itemvalue="Python tests.pytest for test_settlement.TestSettlement" />
+      <item itemvalue="Python tests.pytest in test_payment.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.init_data" />
+        <item itemvalue="Python.del_order" />
+        <item itemvalue="Python tests.pytest for test_payment.TestPayment.test_pm_post_5" />
+        <item itemvalue="Python tests.pytest in test_payment.py" />
+        <item itemvalue="Python tests.pytest for test_settlement.TestSettlement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e9588aa-2931-40bc-a66c-781d7cbb8058" name="Default Changelist" comment="" />
+      <created>1575012275062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575012275062</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_shopping_TestCase_test_sc_add - 2020.03.29 at 10h 32m 34s.xml">
+      <configuration name="pytest for test_shopping.TestCase.test_sc_add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shopping_TestCase_test_sc_add_1 - 2020.03.29 at 10h 33m 57s.xml">
+      <configuration name="pytest for test_shopping.TestCase.test_sc_add_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shopping_TestCase_test_sc_add_3 - 2020.03.29 at 10h 34m 55s.xml">
+      <configuration name="pytest for test_shopping.TestCase.test_sc_add_3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shopping_TestCase - 2020.03.29 at 11h 55m 13s.xml">
+      <configuration name="pytest for test_shopping.TestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shopping_TestShopping - 2020.03.29 at 14h 37m 24s.xml">
+      <configuration name="pytest for test_shopping.TestShopping" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_settlement_TestSettlement_test_sm_edit_9 - 2020.03.30 at 08h 26m 24s.xml">
+      <configuration name="pytest for test_settlement.TestSettlement.test_sm_edit_9" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_settlement_TestSettlement - 2020.03.30 at 09h 09m 21s.xml">
+      <configuration name="pytest for test_settlement.TestSettlement" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_payment_py - 2020.03.30 at 13h 02m 41s.xml">
+      <configuration name="pytest in test_payment.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_payment_TestPayment_test_pm_post_5 - 2020.03.30 at 13h 04m 49s.xml">
+      <configuration name="pytest for test_payment.TestPayment.test_pm_post_5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_payment_TestPayment_test_pm_post_5 - 2020.03.30 at 13h 05m 00s.xml">
+      <configuration name="pytest for test_payment.TestPayment.test_pm_post_5" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="697" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.38372093" visible="true" weight="0.20889595" />
+      <window_info id="Structure" order="1" sideWeight="0.61627907" side_tool="true" weight="0.19618745" />
+      <window_info id="Favorites" order="2" sideWeight="0.60465115" side_tool="true" weight="0.19618745" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32685512" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49722" visible="true" weight="0.49646643" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24734983" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286219" />
+      <window_info anchor="bottom" id="GraphQL" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49642575" weight="0.1696113" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50357425" side_tool="true" weight="0.32685512" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.38372093" visible="true" weight="0.22001588" />
+      <window_info id="Structure" order="1" sideWeight="0.61627907" side_tool="true" weight="0.19618745" />
+      <window_info id="Favorites" order="2" sideWeight="0.60465115" side_tool="true" weight="0.19618745" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32685512" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49722" visible="true" weight="0.24204947" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24734983" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286219" />
+      <window_info anchor="bottom" id="GraphQL" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49642575" weight="0.053003535" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50357425" side_tool="true" weight="0.32685512" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/forms/teacher_correction.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/views/role.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/luffy_rest_pro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="174" column="10" selection-start-line="174" selection-end-line="174" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/views/user.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/requirements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/views/student_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/views/teacher_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/category.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#59#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/course_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/course_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/learning_progress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#1607#1886#0" />
+            <element signature="e#1925#2194#0" />
+            <element signature="e#2232#2890#0" />
+            <element signature="e#2935#3399#0" />
+            <element signature="e#3436#3670#0" />
+            <element signature="e#3708#3799#0" />
+            <element signature="e#3844#4101#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/views/aside_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/views/permission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <element signature="e#44#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/views/permission_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manager/views/article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manager/views/dis_stu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manager/views/order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manager/views/teacher_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/GitHub/luffy_pro/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue_cli_pro/luffy_pro_02/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/GitHub/luffy_pro/vue项目启动.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/READ_ME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/文档/第9模块课件/02-路飞学城/项目代码/LuffyCity/shopping/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manager/views/report_forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/utils/base_auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/test_settlement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <folding>
+            <element signature="n#!!doc" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/rbac/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/manager/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/views/student_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/test_shopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="44" column="58" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
+          <folding>
+            <element signature="e#45#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/test_payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="163" column="32" lean-forward="true" selection-start-line="163" selection-start-column="32" selection-end-line="163" selection-end-column="32" />
+          <folding>
+            <element signature="e#45#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/views/teacher_correction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/classroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/teacher/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="372" column="12" selection-start-line="372" selection-start-column="8" selection-end-line="372" selection-end-column="12" />
+          <folding>
+            <element signature="e#274#516#0" />
+            <element signature="e#552#571#1" />
+            <element signature="e#1089#1136#0" />
+            <element signature="e#1271#1369#0" />
+            <element signature="e#1402#1419#0" />
+            <element signature="e#1455#1726#0" />
+            <element signature="e#1578#1595#0" />
+            <element signature="e#1621#1726#0" />
+            <element signature="e#1761#3459#0" />
+            <element signature="e#2766#2843#0" />
+            <element signature="e#2958#3019#0" />
+            <element signature="e#3117#3280#0" />
+            <element signature="e#3155#3230#0" />
+            <element signature="e#3313#3330#0" />
+            <element signature="e#3356#3459#0" />
+            <element signature="e#3499#4541#0" />
+            <element signature="e#3897#3953#0" />
+            <element signature="e#4386#4410#0" />
+            <element signature="e#4436#4541#0" />
+            <element signature="e#4581#4869#0" />
+            <element signature="e#4581#4621#1" />
+            <element signature="e#4721#4738#0" />
+            <element signature="e#4764#4869#0" />
+            <element signature="e#4911#5420#0" />
+            <element signature="e#5194#5241#0" />
+            <element signature="e#5267#5420#0" />
+            <element signature="e#5459#6587#0" />
+            <element signature="e#5719#6129#0" />
+            <element signature="e#6298#6384#0" />
+            <element signature="e#6410#6587#0" />
+            <element signature="e#6589#6624#0" />
+            <element signature="e#7140#8141#0" />
+            <element signature="e#7784#7811#0" />
+            <element signature="e#7848#7880#0" />
+            <element signature="e#7913#7956#0" />
+            <element signature="e#7982#8141#0" />
+            <element signature="e#8176#10480#0" />
+            <element signature="e#9644#9767#0" />
+            <element signature="e#9800#9861#0" />
+            <element signature="e#9908#10480#0" />
+            <element signature="e#10002#10307#0" />
+            <element signature="e#10068#10201#0" />
+            <element signature="e#11221#11347#0" />
+            <element signature="e#11380#11440#0" />
+            <element signature="e#12561#12592#0" />
+            <element signature="e#13522#14313#0" />
+            <element signature="e#14123#14243#0" />
+            <element signature="e#14276#14313#0" />
+            <element signature="e#14570#14623#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/student_question.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/GitHub/luffy_pro/READ_ME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-57">
+            <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/错误编号">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/test_api/init_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="e#63#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/shopping_cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding>
+            <element signature="e#51#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#51#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../luffy_rest_pro/luffy_rest_pro/student/views/settlement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
