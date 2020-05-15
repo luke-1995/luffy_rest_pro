@@ -1,0 +1,4 @@
+/.idea/
+/.pytest_cache/
+/venv/
+/luffy_rest_pro/test_api/

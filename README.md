@@ -9,7 +9,7 @@
 1. 安装模块,打开命令行窗口,输入python3 pip install django==3.0.3
 2. 确保数据库中有一个名叫'luffy'的数据库,以及在好相关的配置,具体配置请查看项目的根目录的settings文件
 3. 打开命令行窗口，进去之后，首先切换到含有manage.py文件的路径下面，然后输入“python manage.py makemigrations”,按回车键，加载完成后,再输入'python manage.py migrate',按回车键,完成数据库迁移
-4. 接着输入python3 manage.py runserver,启动服务
+4. 接着输入python3 manage.py runserver,启动Django服务
 5. 打开redis服务端,端口和ip都是默认
 # 单元测试
 1. 进入单元测试的文件路径,路径是./test_api/
